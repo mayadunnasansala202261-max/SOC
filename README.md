@@ -60,8 +60,8 @@ Here’s a visual walkthrough of the project:
 
 | Screenshot | Description |
 |------------|-------------|
-| ![s1](s1.png) | **Login Screen** – Firebase authentication login page |
-| ![s2](s2.png) | **Dashboard Screen** – Main interface with IP, Password, Port, and Hash tools |
+| ![s1](s1.PNG) | **Login Screen** – Firebase authentication login page |
+| ![s2](s2.PNG) | **Dashboard Screen** – Main interface with IP, Password, Port, and Hash tools |
 
 ---
 
